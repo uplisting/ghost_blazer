@@ -33,7 +33,7 @@ data_sources:
       # user_id: "SELECT id, name FROM users WHERE id IN {value}"
 
 # create audits
-audit: true
+audit: false
 
 # change the time zone
 # time_zone: "Pacific Time (US & Canada)"
